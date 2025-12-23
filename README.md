@@ -40,7 +40,7 @@ When the system is powered on, it waits for a voter input. The voter presses the
 - Student projects
 - Embedded systems learning
 
- Future Improvements
+ ## **Future Improvements**
 - Adding voter authentication
 - Password-protected result access
 - Wireless result transmission
